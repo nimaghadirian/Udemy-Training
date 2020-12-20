@@ -1,2 +1,2 @@
-# Udemy-Training
-Udemy Personal Training Codes for further thinking 
+Python and Data Science
+
